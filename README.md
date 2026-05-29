@@ -35,4 +35,4 @@ We used five random seeds: 0-4.
 
 ## Contact
 
-If you have any question or discussion, feel free to send an e-mail to gs.park@utoronto.ca.
+If you have any question or discussion, feel free to send an e-mail to giseung.park@utoronto.ca.
