@@ -2,6 +2,11 @@
 
 Implementation for the ICML 2026 paper: "Constrained Multi-Objective Reinforcement Learning with Max-Min Criterion"
 
+## Contact
+
+If you have any question or discussion, feel free to send an e-mail to giseung.park@utoronto.ca.
+Author's webpage: https://sites.google.com/view/giseung-park
+
 ## Installation
 
 ```
@@ -32,7 +37,3 @@ We used five random seeds: 0-4.
   year={2026}
 }
 ```
-
-## Contact
-
-If you have any question or discussion, feel free to send an e-mail to giseung.park@utoronto.ca.
