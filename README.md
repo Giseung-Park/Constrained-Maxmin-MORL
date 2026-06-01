@@ -5,6 +5,7 @@ Implementation for the ICML 2026 paper: "Constrained Multi-Objective Reinforceme
 ## Contact
 
 If you have any question or discussion, feel free to send an e-mail to giseung.park@utoronto.ca.
+
 Author's webpage: https://sites.google.com/view/giseung-park
 
 ## Installation
