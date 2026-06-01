@@ -8,6 +8,8 @@ If you have any question or discussion, feel free to send an e-mail to giseung.p
 
 Author's webpage: https://sites.google.com/view/giseung-park
 
+ArXiv link: https://arxiv.org/abs/2605.31388
+
 ## Installation
 
 ```
